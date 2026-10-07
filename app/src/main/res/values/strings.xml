@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CampusLaundry</string>
+    <string name="app_subtitle">Laundry praktis untuk mahasiswa.</string>
+    <string name="app_tagline">Pesan laundry tanpa perlu antre.</string>
+    <string name="start_order">Mulai Pesanan</string>
+    <string name="order_page_title">Buat Pesanan Laundry</string>
+
+    <!-- Services -->
+    <string name="service_wash_only">Cuci Kering</string>
+    <string name="service_wash_iron">Cuci + Setrika</string>
+    <string name="service_express">Express</string>
+
+    <!-- Payments -->
+    <string name="payment_qris">QRIS</string>
+    <string name="payment_ewallet">E-Wallet</string>
+    <string name="payment_outlet">Bayar di Outlet</string>
+
+    <!-- Simulation Modes -->
+    <string name="sim_normal">Normal</string>
+    <string name="sim_service_unavailable">Service Unavailable</string>
+    <string name="sim_payment_timeout">Payment Timeout</string>
+    <string name="sim_unknown_error">Unknown Error</string>
+    <string name="sim_note">Mode ini hanya untuk pengujian error handling &amp; debugging praktikum.</string>
+
+    <!-- Buttons -->
+    <string name="btn_create_order">BUAT PESANAN</string>
+    <string name="btn_retry">Coba Lagi (Retry)</string>
+    <string name="btn_new_order">Pesan Lagi</string>
+    <string name="btn_confirm_outlet">Konfirmasi Pembayaran di Outlet</string>
+</resources>
